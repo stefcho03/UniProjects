@@ -1,5 +1,5 @@
 # Magni
-Magni is a small industrial robot designet to carry heavy loads. The test prototype for the project required to use the following parts:
+Magni is a small industrial robot designed to carry heavy loads. The test prototype for the project required to use the following parts:
 <table>
 <tr>
     <th>Count</th>
